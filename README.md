@@ -3,7 +3,7 @@
 Enlace del taller: https://miso-4208-labs.gitlab.io/talleres/taller4.html#fn_2
 
 Extraer información automáticamente de páginas web haciendo uso de la librería [JSoup] se ha realizado el ejercicio planteado en el taller, 
-el cual se encuentra en la carpeta [jsoup]
+el cual se encuentra en la [carpeta jsoup]
 
 
 ## Extracción de información de Google Play y PlayStore
@@ -64,7 +64,7 @@ MIT
 
 [@ostjh]:https://twitter.com/ostjh
 [JSoup]:https://jsoup.org/
-[jsoup]:https://github.com/jhrubiano10/Taller_04_MISO_4208_scraper_Stores/tree/master/jsoup
+[carpeta jsoup]:https://github.com/jhrubiano10/Taller_04_MISO_4208_scraper_Stores/tree/master/jsoup
 [google-play-scraper]:https://github.com/facundoolano/google-play-scraper
 [app-store-scraper]:https://github.com/facundoolano/app-store-scraper
 [categories.js]:https://github.com/jhrubiano10/Taller_04_MISO_4208_scraper_Stores/blob/master/categories.js#L42
