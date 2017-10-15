@@ -42,6 +42,18 @@ Se ha creado un servicio REST de tipo ``POST`` el cual recibe los siguientes par
 }
 ```
 
+## Instalación.
+
+Para la ejecución de la aplicación se requiere [node] versión 8.0 o superior y npm 5.0 o superior.
+
+### Instalación de paquetes:
+
+Ingresando al directorio raíz de la aplicación ejecutar el comando:
+
+```
+npm install
+```
+
 ### Autor
 * Jorge Rubaino [@ostjh]
 * Código: 201510711
@@ -56,5 +68,6 @@ MIT
 [google-play-scraper]:https://github.com/facundoolano/google-play-scraper
 [app-store-scraper]:https://github.com/facundoolano/app-store-scraper
 [categories.js]:https://github.com/jhrubiano10/Taller_04_MISO_4208_scraper_Stores/blob/master/categories.js#L42
+[node]:https://nodejs.org/es/
 
 
