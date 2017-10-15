@@ -20,7 +20,7 @@ Para el taller se ha hecho uso de los siguientes paquetes:
 
 Los cuales permiten la extracción de información de las tiendas de aplicaciones Google Play Store y AppStore.
 
-Debido a que existe una serie de diferencias entre los tipos de categorías que existen en ambas tiendad, se ha realizadon proceso de convalidación, esto se puede apreciar en el archivo [categories.js]
+Debido a que existe una serie de diferencias entre los tipos de categorías que existen en ambas tiendas, se ha realizado un proceso de convalidación, esto se puede apreciar en el archivo [categories.js]
 
 ## Servicio REST
 
